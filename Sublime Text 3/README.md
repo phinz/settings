@@ -16,12 +16,12 @@ Packages
 
 Here is a List of Packages i use
 
-* [https://sublime.wbond.net/packages/Emmet](Emmet)
-* [https://sublime.wbond.net/packages/Git](Git)
-* [https://sublime.wbond.net/packages/LiveStyle](LiveStyle)
-* [https://sublime.wbond.net/packages/TypoScript](TypoScript)
-* [https://sublime.wbond.net/packages/PHP%20Getters%20and%20Setters](PHP Getters and Setters)
-* [https://sublime.wbond.net/packages/SFTP](SFTP)
-* [http://sublimecodeintel.github.io/SublimeCodeIntel/](SublimeCodeIntel)
-* [https://sublime.wbond.net/packages/SideBarGit](SideBarGit)
-* [https://sublime.wbond.net/packages/SideBarEnhancements](SideBarEnhancements)
+* [Emmet](https://sublime.wbond.net/packages/Emmet)
+* [Git](https://sublime.wbond.net/packages/Git)
+* [LiveStyle](https://sublime.wbond.net/packages/LiveStyle)
+* [TypoScript](https://sublime.wbond.net/packages/TypoScript)
+* [PHP Getters and Setters](https://sublime.wbond.net/packages/PHP%20Getters%20and%20Setters)
+* [SFTP](https://sublime.wbond.net/packages/SFTP)
+* [SublimeCodeIntel](http://sublimecodeintel.github.io/SublimeCodeIntel/)
+* [SideBarGit](https://sublime.wbond.net/packages/SideBarGit)
+* [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
