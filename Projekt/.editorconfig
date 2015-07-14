@@ -1,0 +1,24 @@
+#
+# This file is for unifying the coding style for different editors and IDEs
+# http://editorconfig.org/
+#
+
+# elemente websolutions
+
+## top-most EditorConfig file
+root = true
+
+## Standard Konfiguration
+[*]
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = false
+indent_style = tab
+indent_size = 4
+tab_width = 4
+
+## Konfiguration für TYPO3 Extbase / TYPO3 FLOW
+[*.yaml]
+indent_style = space
+indent_size = 2
