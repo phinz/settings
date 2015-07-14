@@ -1,0 +1,19 @@
+"*":
+  editor:
+    fontSize: 18
+    invisibles: {}
+    showInvisibles: true
+    showIndentGuide: true
+    tabLength: 4
+  core:
+    themes: [
+      "atom-dark-ui"
+      "atom-dark-syntax"
+    ]
+  "exception-reporting":
+    userId: "a2a0166a-edd2-5974-f5c0-5d77283ea393"
+  welcome:
+    showOnStartup: false
+  metrics:
+    userId: "8b931e85f99c2919de40fa7685400e8ca1e85346"
+  "autocomplete-plus": {}
